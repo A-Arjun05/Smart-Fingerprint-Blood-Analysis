@@ -1,5 +1,6 @@
 # Smart-Fingerprint-Blood-Analysis
 Title :-Smart Fingerprint Blood Analysis
+
                       ABSTRACT
 Determining blood type is essential including in emergency situation. Currently, these
 tests are performed manually by technicians, which can lead to human errors. Various
